@@ -16,5 +16,11 @@
     "username":"ThirdUserName",
     "entry":"This is a data entry",
     "type":"entry"
+  },
+  {
+    "id":10003,
+    "username":"FOurthUsername",
+    "entry":"This is a data entry. There should be no duplicates.",
+    "type":"entry"
   }
 ]
