@@ -1,19 +1,19 @@
 [
   {
-    "username":"ThisUserName",
     "id":13487,
+    "username":"ThisUserName",
     "entry":"This is an entry",
     "type":"entry"
   },
   {
-    "username":"OtherUserName",
     "id":12765,
+    "username":"OtherUserName",
     "entry":"THis is an new entry",
     "type":"entry"
   },
   {
-    "username":"ThirdUserName",
     "id":17654,
+    "username":"ThirdUserName",
     "entry":"This is a data entry",
     "type":"entry"
   }
